@@ -3,7 +3,7 @@ package com.jun.enumeration;
 /**
  * @author：cj
  * @date：2020-7-8 20:47
- * @desc：
+ * @desc：每个枚举类型是这个枚举类的一个实例
  */
 public enum  RoomStatusEnum {
     ACTIVE("ACTIVE","可订"),//注意是逗号
